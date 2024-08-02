@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahfooz7
+- 👋 Hi, I’m @mahfooz07
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning at Parul University.
 - 📫 How to reach me ...
